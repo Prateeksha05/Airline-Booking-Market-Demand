@@ -9,3 +9,8 @@ Flask==3.0.2
 requests==2.31.0
 
 pandas==2.2.1
+Output Screenshots
+![image](https://github.com/user-attachments/assets/e8524564-4f23-4a02-aecc-a294469a396c)
+![image](https://github.com/user-attachments/assets/a5ee9572-ebc0-4c46-94e3-b26180e5a1f8)
+![image](https://github.com/user-attachments/assets/9448062c-35d8-476c-adb0-562e9fbb591e)
+
